@@ -1,0 +1,68 @@
+@if(Request::is('home'))
+   @yield('content')
+@elseif(Request::is('/'))
+   @yield('content')
+@elseif(Request::is('admin/login'))
+    @yield('content')
+@elseif(Request::is('register'))
+    @yield('content')
+@else
+
+
+
+    <script>
+
+
+    // $(function () {
+    //   $(".more-app").slice(0, 6).show();
+    //   $("#loadMore").on('click', function (e) {
+    //       e.preventDefault();
+    //       $(".more-app:hidden").slice(0, 6).slideDown();
+    //       if ($(".more-app:hidden").length == 0) {
+    //           $("#load").fadeOut('slow');
+    //       }
+    //       $('html,body').animate({
+    //           scrollTop: $(this).offset().top
+    //       }, 1000);
+    //   });
+    // });
+    // $('#top').click(function () {
+    //   $('body,html').animate({
+    //       scrollTop: 0
+    //   }, 600);
+    //   return false;
+    // });
+    // $(window).scroll(function () {
+    //   if ($(this).scrollTop() > 50) {
+    //       $('.totop a').fadeIn();
+    //   } else {
+    //       $('.totop a').fadeOut();
+    //   }
+    // });
+    // jQuery(function() {
+    //   $('body').attr("style", "");
+    //   setTimeout(function() {
+    //       $('body').attr("style", "display:block; height:auto;");
+    //   }, 100);
+    // });
+    </script>
+
+
+
+    <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.5.1/jquery.nicescroll.min.js"></script> -->
+     <!-- <script src="{{asset('js/jquery.nicescroll.js')}}"></script> -->
+    <!-- <script>
+           $(function() {
+               $("body,html").niceScroll({
+                 scrollspeed: 70,
+                 cursorcolor:"rgb(34, 34, 34)",
+                 cursorwidth:"10px",
+                 background:"#666",
+                 cursorborder:"1px solid rgb(34, 34, 34)",
+                 cursorborderradius:"5px",
+                 cursorfixedheight: 50,
+                 autohidemode: false,
+                 cursorminheight: 30,
+                });
+           });
+         </script> -->

@@ -1,0 +1,61 @@
+{
+    "App_no":"en_app22",
+    "App_name": "How Would Your Indian Army ID Card Look Like?"
+,
+    "designation list": [
+                     "General",
+                     "Lt. General",
+                     "Major General",
+                     "Brigadier",
+                     "Colonel",
+                     "Lt. Colonel",
+                     "Major",
+                     "Captain",
+                     "Lieutenant",
+                     "The Grenadiers",
+                     "5 Armoured Regiment",
+                     "Sikh Regiment",
+                     "Scouts",
+                     "8 Cavalry",
+                     "Lance Naik",
+                     "Naib subedar",
+                     "Havildar",
+                     "Field Marshal",
+                     "Lieutenant General",
+
+                ],
+    "Regiment list  + location": [
+                     "Madras Regiment + Wellington, Tamil Nadu",
+                     "Rajputana Rifles + Delhi Cantonment",
+                     "Rajput Regiment + Fatehgarh, Uttar Pradesh",
+                     "Dogra Regiment + Faizabad, Uttar Pradesh",
+                     "Sikh Regiment + Ramgarh Cantonment, Jharkhand",
+                     "Jat Regiment + Bareilly, Uttar Pradesh",
+                     "Parachute Regiment + Bangalore, Karnataka",
+                     "Punjab Regiment  + Ramgarh Cantonment, Jharkhand",
+                     "The Grenadiers + Jabalpur, Madhya Pradesh",
+                     "Sikh Light Infantry + Fatehgarh, Uttar Pradesh",
+                     "Maratha Light Infantry + Belgaum, Karnataka",
+                     "The Garhwal Rifles + 	Lansdowne, Uttarakhand",
+                     "Kumaon Regiment	 + Ranikhet, Uttarakhand",
+                     "Assam Regiment + Shillong, Meghalaya",
+                     "Bihar Regiment + Danapur, Bihar",
+                     "Mahar Regiment + Saugor, Madhya Pradesh",
+                     "Jammu & Kashmir Rifles + Jabalpur, Madhya Pradesh",
+                     "Jammu and Kashmir Light Infantry + Avantipur, Jammu and Kashmir",
+                     "Gorkha Rifles + Sabathu, Himachal Pradesh",
+                 ],
+
+
+
+      "ID Card No" : ["rand(length = 8)
+                        ex: $cardID = mt_rand(10000000, 99999999);
+                        echo  $cardID;
+                    "],
+
+
+
+    "Result_share":"Wow, Satish. This is how your ID Card would look like if you would join Indian Army. You sleep peacefully at your homes because Indian Army is guarding frontiers. Let us salute the Army; Share the result with everyone and let them make their ID Card.",
+
+    "App_link":"http://quizonix.com/en/app/How-Would-Your-Indian-Army-ID-Card-Look-Like",
+}

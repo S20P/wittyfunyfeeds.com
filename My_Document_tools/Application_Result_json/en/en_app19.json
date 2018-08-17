@@ -1,0 +1,14 @@
+{
+    "App_no":"en_app19",
+    "App_name": "Which Rock Band Do You Belong To?"
+,
+    "Result1": [
+                  "The Beatles","Guns N Roses","Pink Floyd","Metallica","Led Zeppelin",
+                  "AC/DC",
+              ],
+
+    "Result_share":"Satish, you belong to The Beatles. You have such an amazing voice and knows to play many instruments. You deserve to be in The Beatles.
+                    Share this result with everyone and let them know about this",
+
+    "App_link":"http://quizonix.com/en/app/Which-Rock-Band-Do-You-Belong-to",
+}

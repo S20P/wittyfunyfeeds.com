@@ -1,0 +1,27 @@
+{
+    "App_no":"en_app13",
+    "App_name": "What's The One Thing You Regret Losing?"
+,
+
+
+
+    "Result1": [
+                "PERSISTENC",
+                "CURIOSITY",
+                "SHORT MEMORY",
+                "WONDER",
+                "FAITH",
+              ],
+
+    "Result": [
+                  "You are incredibly curious. You can ask 1,000 questions, and after those have been answered, you have 1,000 more to ask.",
+                  "You are seemingly amazed by something new every five minutes. It doesn’t matter where you are; you become entranced by the simplest objects and environments.",
+                  "Whatever problems you had during the day are erased by a good nights sleep, and the next morning they are reset",
+                  "You develop the persistence of a child when attempting to tackle your goals and ambitions. You Don’t give up until you get what you want. ",
+                  "You are not afraid to try a diverging path for fear of failure. You Develop the faith like a child and use it to take the leaps necessary to live a successful and rewarding life.",
+              ],
+    "Result_share":"You are incredibly curious. You can ask 1,000 questions, and after those have been answered, you have 1,000 more to ask.
+                     Share this result with your everyone and let them know about this.",
+
+    "App_link":"http://quizonix.com/en/app/Whats-The-One-Thing-You-Regret-Losing",
+}

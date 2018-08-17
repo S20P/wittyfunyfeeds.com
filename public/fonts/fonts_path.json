@@ -1,0 +1,73 @@
+{
+
+
+    "Hindi": [{
+
+              }],
+
+
+    "Englis-font": [
+                      "$font->file('fonts/en/Kaushan_Script/KaushanScript-Regular.ttf');",
+                      "$font->file('fonts/en/PatuaOne/PatuaOne-Regular.ttf');",
+                      "$font->file('fonts/en/Berkshire_Swash/BerkshireSwash-Regular.ttf');",
+                      "$font->file('fonts/en/Volkhov/Volkhov-Bold.ttf');",
+                      "$font->file('fonts/en/Vidaloka/Vidaloka-Regular.ttf');",
+                      "$font->file('fonts/en/TradeWinds/TradeWinds-Regular.ttf');",
+                      "$font->file('fonts/en/Butcherman/Butcherman-Regular.ttf');",
+                      "$font->file('fonts/en/Eater/Eater-Regular.ttf');",
+                      "$font->file('fonts/en/JacquesFrancoisShadow/JacquesFrancoisShadow-Regular.ttf');",
+                      "$font->file('fonts/en/Diplomata/Diplomata-Regular.ttf');",
+                      "$font->file('fonts/en/Ewert/Ewert-Regular.ttf');",
+                      "$font->file('fonts/en/Spicy_Rice/SpicyRice-Regular.ttf');",
+                      "$font->file('fonts/en/Fascinate_Inline/FascinateInline-Regular.ttf');",
+                      "$font->file('fonts/en/Slackey/Slackey-Regular.ttf');",
+                      "$font->file('fonts/en/Faster_One/FasterOne-Regular.ttf');",
+                      "$font->file('fonts/en/Risque/Risque-Regular.ttf');",
+                      "$font->file('fonts/en/Josefin_Sans/JosefinSans-Regular.ttf');",
+                      "$font->file('fonts/en/Acme/Acme-Regular.ttf');",
+                      "$font->file('fonts/en/Monoton/Monoton-Regular.ttf');",
+                      "$font->file('fonts/en/BungeeInline/BungeeInline-Regular.ttf');",
+                      "$font->file('fonts/en/ArchivoBlack/ArchivoBlack-Regular.ttf');",
+                      "$font->file('fonts/en/FredokaOne/FredokaOne-Regular.ttf');",
+                      "$font->file('fonts/en/SigmarOne/SigmarOne-Regular.ttf');",
+                      "$font->file('fonts/en/Creepster/Creepster-Regular.ttf');",
+                      "$font->file('fonts/en/FingerPaint/FingerPaint-Regular.ttf');",
+                      "$font->file('fonts/en/Lobster/Lobster-Regular.ttf');",
+                      "$font->file('fonts/en/Righteous/Righteous-Regular.ttf');",
+                      "$font->file('fonts/en/Nosifer/Nosifer-Regular.ttf');",
+
+                      "$font->file('fonts/en/Source_Sans_Pro/SourceSansPro-Regular.ttf');",
+                      "$font->file('fonts/en/Lora/Lora-Regular.ttf');",
+                      "$font->file('fonts/en/Oswald/Oswald-Regular.ttf');",
+                      "$font->file('fonts/en/ConcertOne/ConcertOne-Regular.ttf');",
+
+                      "$font->file('fonts/en/Macondo/Macondo-Regular.ttf');",
+                      "$font->file('fonts/en/RobotoMono/RobotoMono-Bold.ttf');",
+                      "$font->file('fonts/en/Frijole/Frijole-Regular.ttf');",
+                      "$font->file('fonts/en/ZillaSlabHighlight/ZillaSlabHighlight-Regular.ttf');",
+                      "$font->file('fonts/en/Chicle/Chicle-Regular.ttf');",
+
+                      "$font->file('fonts/en/OriginalSurfer/OriginalSurfer-Regular.ttf');",
+
+                      "$font->file('fonts/en/Satisfy/Satisfy-Regular.ttf');",
+
+                      "$font->file('fonts/en/Anton/Anton-Regular.ttf');",
+                      "$font->file('fonts/en/Audiowide/Audiowide-Regular.ttf');",
+
+                      "$font->file('fonts/en/Bellefair/Bellefair-Regular.ttf');",
+                      "$font->file('fonts/en/Aclonica/Aclonica-Regular.ttf');",
+                      "$font->file('fonts/en/VastShadow/VastShadow-Regular.ttf');",
+                      "$font->file('fonts/en/IM_Fell_English/IMFeENrm28P.ttf');",
+                      "$font->file('fonts/en/Kameron/Kameron-Regular.ttf');",
+
+                      "$font->file('fonts/en/BreeSerif/BreeSerif-Regular.ttf');",
+                      "$font->file('fonts/en/Roboto/Roboto-Regular.ttf');",
+
+                      "$font->file('fonts/en/BungeeInline/BungeeInline-Regular.ttf');",
+                      "$font->file('fonts/en/Frijole/Frijole-Regular.ttf');",
+
+                      "$font->file('fonts/en/FingerPaint/FingerPaint-Regular.ttf');",
+
+                   ],
+
+}

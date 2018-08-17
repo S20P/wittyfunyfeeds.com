@@ -1,0 +1,40 @@
+{
+    "App_no":"en_app50",
+    "App_name": "How Would Your Official Life Look Like After 10 Years?"
+,
+    "Designation": [
+                  "Chief Technical Officer (CTO)",
+                  "Sr. Executive Engineer ",
+                  "Managing Director (M.D) ",
+                  "Animation Director ",
+                  "General Manager (G.M)"
+              ],
+    "Salary": [
+                  "$10,00,000","$5,00,000"
+              ],
+    "Team Size": [
+                  "50 members.",
+                  "60 people.",
+                  "500 employees."
+                  "You are the BOSS.",
+                  "25 people.",
+                  "100 people."
+              ],
+    "Working Attitude: ": [
+                  "You would never stop until you find the solution to a given development problem.",
+                  "You’re the perfect team player.",
+                  "You have a thirst for knowledge and look at each opportunity to grow as a way to grow their business.",
+                  "Your aim is both personal development as well as professional growth.",
+                  "You are open to learning new things every day. ",
+                  "You always listen to your staff and share your knowledge with them. "
+              ],
+
+    "Result_share":"Satish, your personal life, your professional life, and your creative life are all intertwined. You went through a few very difficult years where you felt like a failure. But it was actually really important for you to go through that. This is how your official life would look like after 10 years.
+                    Designation: Chief Technical Officer (CTO)
+                    Salary: $10,00,000
+                    Team Size: You have the core of 50 members.
+                    Working Attitude: You would never stop until you find the solution to a given development problem.
+                    Share this result with your friends and tell them about this change. ",
+
+    "App_link":"http://quizonix.com/en/app/How-Would-Your-Official-Life-Look-Like-After-10-Years",
+}

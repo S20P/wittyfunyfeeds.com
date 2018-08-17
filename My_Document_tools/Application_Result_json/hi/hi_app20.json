@@ -1,0 +1,14 @@
+{
+    "App_no":"hi_app20",
+    "App_name": "जानिए आपकी किस्मत कब चमकेगी?"
+,
+    "Result": [
+                  "$start = strtotime(10 December 2017);
+                  $end = strtotime(22 July 2020);
+                  $timestamp = mt_rand($start, $end);
+                  $overtxt =  date(d-m-Y, $timestamp);"
+              ],
+    "Result_share":"Satish, आपकी किस्मत 01-01-2019 तक चमक उठेगी। किस्मत कोई ऊपर से लिखवाके नहीं लाता है, सब अपनी किस्मत यहीं बनाते हैं, अपनी खुद की मेहनत से! आप बहुत अपनी किस्मत चमकाने की बहुत मेहनत कर रहे हो और जल्दी ही आपका सपना पूरा होने वाला है। ",
+
+    "App_link":"http://quizonix.com/hi/app/janiye-aapki-kissmat-kab-chamkegi",
+}

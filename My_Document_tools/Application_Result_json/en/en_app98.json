@@ -1,0 +1,56 @@
+{
+    "App_no":"en_app98",
+    "App_name": "Which drink is a match for you?"
+,
+    "Result": [
+                  {"VODKA":"You’re a smart and charming
+                        individual who knows
+                        what they want and how they
+                        want it. Once you've set a
+                        goal, you’re determined to
+                        achieve it."}
+
+                  {"BEER":"You're a pretty easy—going
+                            and happy—go—lucky person.
+                            Though you don’t put more
+                            effort than you have to,
+                            things almost always work
+                            out for you."}
+
+                  {"GIN & TONIC":"You're the cool person of
+                                  your group who always has
+                                  an interesting story to tell. No
+                                  matter where you are, you’re
+                                  always having a good time
+                                  and enjoying life.
+                                  "}
+
+                  {"CHAMPAGNE":"You are an eloquent
+                                  individual with a taste for
+                                  the exquisite. For you,
+                                  everyday should be a
+                                  celebration of life in all its
+                                  grandiosity.
+                                  "}
+
+                  {"TEQUILA":"You’re daring and outgoing.
+                              With your charm and wit, you
+                              move through a crowded
+                              room with ease, and you
+                              leave a lasting impression on
+                              those you meet."}
+
+                  {"MARGARITA":"You’re outgoing and
+                                straightforward. You can
+                                strike up a conversation
+                                with anyone and make
+                                them laugh."}
+
+
+              ],
+    "Result_share":"You make an impact on people, and your influence extends beyond your expectations. ",
+
+    "App_link":"https://www.wittybunny.com/content/which-drink-is-a-match-for-you",
+
+    "text_loder":"You look like you could use a drink..."
+}
